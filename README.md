@@ -30,6 +30,7 @@ El desajuste de impedancia es el término utilizado para describir las incompati
 ## Realizar esquema relacional
 ![Esquema de base de datos](Mapeo.jpg)
 ## ¿Cómo se maneja la herencia al realizar el mapeo?
+Al mapear jerarquías de herencia de clases a una base de datos relacional mediante técnicas de Mapeo Objeto-Relacional (ORM), se emplean principalmente tres estrategias: Tabla por jerarquía de clases, Tabla por subclases y Tabla por clase concreta. La elección de cada una depende de varios factores como la aplicación, los requisitos de rendimiento y la complejidad de jerarquía de herencia. 
 
 # Referencias
 LinkedIn. (n.d.). ¿Cómo manejar el desajuste de impedancia entre R2TGE? Recuperado el 7 de noviembre de 2024, de https://www.linkedin.com/advice/0/how-can-you-handle-impedance-mismatch-between-r2tge?lang=es&originalSubdomain=es
